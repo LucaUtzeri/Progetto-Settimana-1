@@ -1,0 +1,152 @@
+/* Your styles here */
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  color: #393d41;
+  text-align: center;
+  display: block;
+  line-height: 1.65;
+}
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #25a2c3;
+  font-weight: bold;
+  margin: 1.5rem;
+  font-size: 1.2rem;
+}
+h3 {
+  font-size: 1.3rem;
+}
+h4 {
+  color: #25a2c3;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+div {
+  margin: 30px;
+}
+.epicode-logo {
+  width: 130px;
+}
+
+.header-block {
+  background-color: black;
+  padding: 20px;
+  padding-inline: auto;
+}
+
+.start {
+  background-image: url(../images/banner.jpg);
+  background-position: center;
+  background-size: 130%;
+  margin: 0;
+  padding: 50px;
+}
+button {
+  margin: 10px;
+  padding: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  background-color: #e22d0e;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.section1 {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.round-image {
+  width: 250px;
+  border-radius: 50%;
+}
+
+.section2 {
+  background-color: #e22d0e;
+  padding: 30px;
+  color: white;
+}
+
+.titolo-bianco {
+  margin: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.quote {
+  font-style: oblique;
+  font-size: 1rem;
+}
+.author > p {
+  margin: 0;
+  padding: 10;
+  font-size: 0.8rem;
+}
+.box1 {
+  border: #dee1e3 solid;
+}
+.box1 > h4,
+p {
+  padding: 10px;
+  margin-inline: 30px;
+}
+.box2 {
+  border: #dee1e3 solid;
+}
+.box2 > h4,
+p {
+  padding: 10px;
+  margin-inline: 30px;
+}
+.box3 {
+  border: #dee1e3 solid;
+}
+.box3 > h4,
+p {
+  padding: 10px;
+  margin-inline: 30px;
+}
+.box-image {
+  width: 100%;
+  display: inline;
+  margin: 0;
+  object-position: center;
+}
+footer {
+  background-color: #25a2c3;
+  color: white;
+  padding: 40px;
+  font-size: 0.9rem;
+}
+.footer > p,
+a {
+  color: white;
+  margin: 0;
+}
+
+.footer-title {
+  margin: 20px;
+  line-height: 1.65;
+}
+.footer > p {
+  margin: 0;
+  padding: 0;
+  font-size: 0.9rem;
+  line-height: 1px;
+}
+.linea-divisoria {
+  margin: 50px;
+  vertical-align: middle;
+  margin-left: 100px;
+  margin-right: 100px;
+}
